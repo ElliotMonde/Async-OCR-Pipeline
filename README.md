@@ -1,6 +1,4 @@
-Author: Elliot Phua
-
-Email: elliotphua@gmail.com
+Author: Elliot Phua (ElliotMonde)
 
 # OCR Service Application
 
@@ -12,19 +10,6 @@ The easiest way to run the application is using Docker Compose.
 
 ### Prerequisites
 - Docker and Docker Compose installed on your machine.
-
-### Untar project file
-Firstly, "untar" the project tar file using the following command:
-
-```bash
-tar -xvzf mercari_assignment.tar.gz
-```
-
-Then `cd` into the project directory.
-
-```bash
-cd mercari_assignment
-```
 
 ### Build and Run
 To build and start all services (Frontend, Backend API, Worker, Database, Redis), run:
